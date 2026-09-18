@@ -39,7 +39,7 @@ This website is designed and developed for **The Afro Crown Beauty**, an afro sp
 * Unsplash. 2026. *Free High-Resolution African Hair & Beauty Photos*. Available at: <https://unsplash.com> [Accessed 12 August 2026].
 * W3Schools. 2026. *HTML5 Semantic Elements Reference*. Available at: <https://www.w3schools.com/html/> [Accessed 12 August 2026].
 
-# Afro Crown Beauty - Website Development (Part 2)
+# Afro Crown Beauty - Website Development Part 2
 
 Welcome to **Part 2** of the Afro Crown Beauty web application project. This phase focuses on advanced layout styling, custom branding updates, and comprehensive **Responsive Web Design (RWD)** across desktop, tablet, and mobile viewports.
 
