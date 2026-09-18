@@ -62,13 +62,13 @@ Key Updates & Technical Features in Part 2
 * **Logo Alignment:** Secured global centering for the brand logo across all device widths.
 * **Custom Navigation Dividers:** Added and styled subtle menu dividers using CSS border and pseudo-element rules.
 
-## 🛠️ Built With
+## Built With
 
 * **HTML5** – Semantic structure (`header`, `nav`, `main`, `section`, `footer`)
 * **CSS3** – Flexbox layouts, CSS Grid, Media Queries, and custom variables
 * **VS Code Live Server** – Local testing and network mobile debugging
 
-## 📱 How to Test Responsiveness
+## How to Test Responsiveness
 
 1. **Chrome Developer Tools:** Open the site, press `F12` (or `Cmd + Option + I`), and toggle the Device Toolbar (`Ctrl + Shift + M`).
 2. **Local Network / Live Server:** Run Live Server in VS Code and connect your mobile device using your computer's local IP address (`http://<YOUR-IP>:5500`).  
